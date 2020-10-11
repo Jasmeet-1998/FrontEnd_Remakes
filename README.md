@@ -1,16 +1,16 @@
 # FrontEnd_Remakes
 
 
-BlewMinds_Homepage Remake
+<b>BlewMinds_Homepage Remake</b>
 
-Original Website BlewMinds Glimpse
+<b>Original Website BlewMinds Glimpse</b>
+=============================================================
 <img src="https://user-images.githubusercontent.com/67728575/95677560-ee64d780-0be3-11eb-8469-acbb83257824.png">
 
 
 
-After Remake The Homepage ->
-
-=============================
+<b>After Remake The Homepage</b>
+=============================================================
 
 <img src="https://user-images.githubusercontent.com/67728575/95677685-d3df2e00-0be4-11eb-9697-976e96572a59.png">
 
