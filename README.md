@@ -15,8 +15,8 @@
 -Refactored whole Look and Feel Of the Homepage
 -Added Event Section Where U can register For Upcoming Events.
 
-Live Demo
-<a href="https://ggdr95sya4uxdleymuw2qw-on.drv.tw/BlewMinds_Homepage_remake_byJasmeet/">Live Demo</a>
+See the Pics From My remake or click on Live demo
+<a href="https://ggdr95sya4uxdleymuw2qw-on.drv.tw/BlewMinds_Homepage_remake_byJasmeet/"><b>Go See Live Demo</b></a>
 
 <img src="https://user-images.githubusercontent.com/67728575/95677685-d3df2e00-0be4-11eb-9697-976e96572a59.png">
 
