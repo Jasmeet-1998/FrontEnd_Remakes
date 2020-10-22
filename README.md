@@ -9,7 +9,7 @@
 
 
 
-<b>After Remake The Homepage</b><a href="https://ggdr95sya4uxdleymuw2qw-on.drv.tw/BlewMinds_Homepage_remake_byJasmeet/"><b>Go See Live Demo</b></a>
+<b>After Remake The Homepage</b>
 =============================================================
 -Easier and Responsive Navigation
 -Refactored whole Look and Feel Of the Homepage
